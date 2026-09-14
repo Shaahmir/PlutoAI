@@ -1,0 +1,27 @@
+{
+    "tokenizer_type": "BPE",
+    "tokenizer_name": "pluto_ai_bpe",
+    "vocab_size": 32000,
+    "requested_vocab_size": 32000,
+    "special_tokens": [
+        "<|pad|>",
+        "<|unk|>",
+        "<|bos|>",
+        "<|eos|>",
+        "<|start_header_id|>",
+        "<|end_header_id|>",
+        "<|end_turn|>",
+        "<|think|>",
+        "<|end_think|>"
+    ],
+    "context_length": 1024,
+    "byte_level": true,
+    "byte_fallback": true,
+    "min_frequency": 2,
+    "source_files": [],
+    "filters": {
+        "score": "Min Score: 2.5",
+        "token_count": "Min Token Count: 128",
+        "language_score": "Min Language Score: 0.85"
+    }
+}
