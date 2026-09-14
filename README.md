@@ -205,4 +205,7 @@ This project is licensed under the MIT License.
 
 ---
 
-![Output](Output.png)
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="output1.png" alt="First Description" style="width: 50%; border-radius: 8px; object-fit: cover;">
+  <img src="output2.png" alt="Second Description" style="width: 50%; border-radius: 8px; object-fit: cover;">
+</div>
