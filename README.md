@@ -8,7 +8,7 @@ A decoder-only language model built from scratch in PyTorch, featuring a custom 
 
 Try PlutoAI directly in your browser:
 
-<a href="https://pluto-ai.streamlit.app/" target="_blank" rel="noopener noreferrer"><b>Launch PlutoAI 🪐 -></b></a>
+**[Launch PlutoAI 🪐 ->](https://pluto-ai.streamlit.app/)**
 
 ---
 
@@ -205,7 +205,7 @@ This project is licensed under the MIT License.
 
 ---
 
-<div style="display: flex; gap: 16px; align-items: center;">
-  <img src="output1.png" alt="Output 1" style="width: 50%; border-radius: 8px; object-fit: cover;">
-  <img src="output2.png" alt="Output 2" style="width: 50%; border-radius: 8px; object-fit: cover;">
-</div>
+<p align="center">
+  <img src="output1.png" width="48%" />
+  <img src="output2.png" width="48%" />
+</p>
