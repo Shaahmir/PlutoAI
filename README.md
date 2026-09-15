@@ -195,12 +195,6 @@ PlutoAI follows the same from-scratch philosophy as my earlier conversational mo
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Visual Artifact:
 
 ---
@@ -209,3 +203,9 @@ This project is licensed under the MIT License.
   <img src="output1.png" width="48%" />
   <img src="output2.png" width="48%" />
 </p>
+
+## License
+
+This project is licensed under the MIT License.
+
+---
