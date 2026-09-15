@@ -199,10 +199,7 @@ PlutoAI follows the same from-scratch philosophy as my earlier conversational mo
 
 ---
 
-<p align="center">
-  <img src="output1.png" width="48%" />
-  <img src="output2.png" width="48%" />
-</p>
+![Output](output.png)
 
 ## License
 
