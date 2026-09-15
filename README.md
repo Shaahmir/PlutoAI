@@ -8,7 +8,7 @@ A decoder-only language model built from scratch in PyTorch, featuring a custom 
 
 Try PlutoAI directly in your browser:
 
-**[Launch PlutoAI ->](https://pluto-ai.streamlit.app/)**
+<a href="https://pluto-ai.streamlit.app/" target="_blank" rel="noopener noreferrer"><b>Launch PlutoAI 🪐 -></b></a>
 
 ---
 
